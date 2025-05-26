@@ -1,0 +1,22 @@
+# Swift Package Manager
+
+.build/
+
+# Xcode
+
+\*.xcworkspace
+\*.xcuserstate
+\*.xcuserdatad
+DerivedData/
+
+# macOS
+
+.DS\_Store
+
+# SwiftPM
+
+.swiftpm/
+
+# Logs
+
+\*.log
