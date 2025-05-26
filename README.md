@@ -127,3 +127,9 @@ cd TSP-DP-Swift
 swift build -c release
 swift run TSP input/<nama_file_input>.txt
 ```
+
+## Author
+- **Nama**: Ziyan Agil Nur Ramadhan
+- **NIM**: 13622076
+- **Mata Kuliah**: IF2211 Strategi Algoritma
+- **Tahun**: 2025
